@@ -39,10 +39,24 @@ The sales data is stored in separate CSV files for each month. The notebook merg
 The notebook generates various visualizations and insights from the sales data, including:
 
 - Monthly sales data and the best month for sales
+![monthly sale](https://github.com/shivam-gupta0/Sales-Analysis-Production/assets/85798077/fb053f82-6767-4f56-b2f6-fe9ed3de669c)
+
 - City-wise analysis of orders
+
+![number of orders and cities](https://github.com/shivam-gupta0/Sales-Analysis-Production/assets/85798077/b5e865b9-ec72-42b2-8079-9bdeb80418a0)
+
 - Analysis of the optimal time for displaying advertisements
+![orders per hour](https://github.com/shivam-gupta0/Sales-Analysis-Production/assets/85798077/05e1af6a-bd8f-4fb5-82dd-8de7d78c5f87)
+
+
 - Top-selling products and their quantities ordered
+
+![max sold product](https://github.com/shivam-gupta0/Sales-Analysis-Production/assets/85798077/ac2993e8-de61-4acf-bd50-508d454cc3d7)
+
 - Frequently co-occurring products
+
+  ![product and quantity](https://github.com/shivam-gupta0/Sales-Analysis-Production/assets/85798077/b513822d-431e-4019-b5a6-623e55817a8d)
+
 
 Feel free to explore the notebook and the visualizations to gain insights into the sales data.
 
